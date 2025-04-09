@@ -8,7 +8,7 @@
 
 AgriVision is an **AI-powered chatbot platform** designed to help rural communities optimize water usage by analyzing weather patterns, groundwater levels, and crop needs. This project provides real-time insights to farmers and policymakers for sustainable water management.
 
-![AgriVision Interface Demo](./src/assets/AgriVision.png)
+![AgriVision Interface Demo](./src/assets/sarovar.png)
 
 ---
 
